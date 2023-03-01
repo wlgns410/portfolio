@@ -10,7 +10,7 @@ import IconExternal from "./external"
 import IconMail from "./mail"
 
 // Utility function to grab Icons by name
-const Icon = ({ name, color }) => {
+function Icon({ name, color }) {
   switch (name.toLowerCase()) {
     case "xing":
       return <IconXing color={color} />
