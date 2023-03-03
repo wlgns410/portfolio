@@ -1,0 +1,5 @@
+// export const createPages = require("gatsby-theme-portfolio-minimal/src/gatsby/node/createPages")
+// export const createResolvers = require("gatsby-theme-portfolio-minimal/src/gatsby/node/createResolvers")
+// export const onCreateNode = require("gatsby-theme-portfolio-minimal/src/gatsby/node/onCreateNode")
+// export const onPreBootstrap = require("gatsby-theme-portfolio-minimal/src/gatsby/node/onPreBootstrap")
+// export const createSchemaCustomization = require("gatsby-theme-portfolio-minimal/src/gatsby/node/createSchemaCustomization")
